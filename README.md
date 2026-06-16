@@ -1,2 +1,8 @@
-# safewalkapp
-SafeWalk is a mobile application developed with Flutter to support visually impaired users during navigation. The app combines voice input, camera-based obstacle detection, and real-time text-to-speech feedback to provide a safer and more independent walking experience.
+## Features
+
+- 🎤 Voice-based destination input
+- 📷 Camera-powered obstacle detection
+- 🔊 Real-time text-to-speech guidance
+- ♿ Accessibility-focused user interface
+- 📱 Cross-platform development with Flutter
+- 🚶 Safe and independent navigation support
